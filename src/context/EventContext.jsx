@@ -6,7 +6,7 @@ const EventContext = createContext();
 export const EventProvider = ({ children }) => {
   const [events, setEvents] = useState([]);
 
-  const API = "http://localhost:5000/api/events"; // ✅ backend base
+  const API = "https://mycalendar-backend.onrender.com/api/events"; // ✅ backend base
 
   // ✅ Load Events from Backend on Startup
   useEffect(() => {
