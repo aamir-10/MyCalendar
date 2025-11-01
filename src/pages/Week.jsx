@@ -72,11 +72,8 @@ export default function Week() {
   };
 
   const removeEvent = async () => {
-    if (editingEvent) {
-      await deleteEvent(editingEvent._id || editingEvent.id);
-      await fetchEvents();
-    }
-    closeModal();
+    if (editingEvent) deleteEvent(editingEvent._id);
+    setShowModal(false);
   };
 
   const getEventsForHour = (day, hour) => {
