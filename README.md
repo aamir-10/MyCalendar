@@ -9,7 +9,7 @@ This project is a fully functional **calendar scheduler application** built usin
 ### > Modal View
 ![Form](src/assets/SS1.png)
 
-### > Calendar with Week View
+### > Calendar with Day View
 ![Gauge](src/assets/SS2.png)
 
 ### > Calendar with Month View
