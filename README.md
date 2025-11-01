@@ -157,4 +157,5 @@ src/
 ---
 
 ### © 2025 React Calendar Scheduler
-Developed with ❤️ using React.
+Developed with ❤️ using React and 🌍 Deployed using Render:- 🔗[Open Live App](https://mycalendar-qanl.onrender.com)
+
