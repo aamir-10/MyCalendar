@@ -128,6 +128,7 @@ This project demonstrates intermediate-to-advanced React concepts, component str
 ## 📁 File Structure
 
 ```
+backend/
 src/
 ├── components/
 │   ├── Day.jsx
@@ -138,11 +139,7 @@ src/
 │   └── EventContext.jsx
 ├── App.jsx
 ├── index.js
-└── styles/
-    ├── Day.css
-    ├── Week.css
-    ├── Month.css
-    └── Modal.css
+
 ```
 
 ---
