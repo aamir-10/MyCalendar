@@ -4,6 +4,18 @@
 This project is a fully functional **calendar scheduler application** built using **React**. It provides users with multiple views — **Month, Week, and Day** — to efficiently manage and visualize their events. The application supports **adding, editing, deleting**, and **viewing events**, all with a modern design inspired by Google Calendar. It includes hover-based tooltips, modal dialogs for event creation, and smooth animations for a polished user experience.
 
 ---
+## 👁 Preview
+
+### > Modal View
+![Form](src/assets/SS1.png)
+
+### > Calendar with Week View
+![Gauge](src/assets/SS2.png)
+
+### > Calendar with Month View
+![Bar](src/assets/SS3.png)
+
+---
 
 ## 🧩 Setup and Run Instructions
 
